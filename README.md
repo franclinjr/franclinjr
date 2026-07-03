@@ -19,15 +19,6 @@ Desenvolvedor Front-end especializado na criação de interfaces modernas, aplic
   <img src="https://img.shields.io/badge/✉️%20Email-EA4335?style=for-the-badge" />
 </a>
 
-# Sobre mim
-
-Sou desenvolvedor de software com foco em Front-end, especializado na construção de aplicações modernas utilizando React, Next.js e TypeScript.
-
-Tenho experiência no desenvolvimento de sistemas web, dashboards, landing pages, sites institucionais e integrações com APIs, sempre priorizando performance, escalabilidade e uma excelente experiência para o usuário.
-
-Meu objetivo é desenvolver produtos digitais que resolvam problemas reais através de tecnologia bem aplicada.
-
-
 # Tecnologias
 
 ### Linguagens
